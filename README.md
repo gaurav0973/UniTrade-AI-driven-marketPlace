@@ -1,2 +1,6 @@
 # UniTrade - AI Driven Student Marketplace
 UniTrade is a student marketplace that leverages AI to connect buyers and sellers efficiently in college campuses. Our platform simplifies the buying and selling process, making it easier for students to trade items they need or no longer use.
+
+
+# Features
+- Authenticaltion: Secure sign-up and login using Clerk.
